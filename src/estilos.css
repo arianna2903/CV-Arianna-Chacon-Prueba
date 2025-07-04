@@ -1,0 +1,17 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  display: flex;
+  margin: 0%;
+}
+
+nav {
+  
+}
